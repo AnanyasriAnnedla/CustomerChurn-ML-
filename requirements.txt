@@ -3,3 +3,6 @@ numpy
 scikit-learn
 matplotlib
 seaborn
+streamlit
+joblib
+shap==0.44.1
