@@ -3,7 +3,7 @@
 Predicts whether a telecom customer will churn — and explains *why* using SHAP values.
 
 ## Live Demo
-👉 [Try it here]()
+👉 [Try it here](https://customer-churn-predictor-an.streamlit.app)
 
 ## Project Overview
 This project predicts whether a customer will leave a telecom service (called churn)
